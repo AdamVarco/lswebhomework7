@@ -5,8 +5,11 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Array
+    An array is a collection of similar items. For example you could have an of integers {1,2,3}
 	* Object
+    Object is something that is used to store values , and functions. It is a better way to code in javascript.
 	* Method
+    Is similar to a function but you call back on it. Most are prebuilt.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
